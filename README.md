@@ -4,6 +4,18 @@ MLproject deployed in django  conatinerized using docker .one service running in
 MLProjectInDjangoDockerized
 |   |  
 |   -YourDoctor
+|   |   |
+|   |   |--YourDoctor
+|   |   |--medicalapp
+|   |   |--static
+|   |   -Dockerfile
+|   |   -db.sqlite3
+|   |   -docker-compose.yaml
+|   |   -manage.py
+|   |   -medical_app_model.joblib
+|   |   -requirements.txt
+|   |
+|   |
 |   -myvenv
 |   -README.md
 |
